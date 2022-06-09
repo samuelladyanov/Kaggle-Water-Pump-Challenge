@@ -1,0 +1,1 @@
+This model predicts if a Tasmanian water pump is need of repair. The model utilizes a RandomForestClassifier and XGBoost for hyperparameter tuning.
